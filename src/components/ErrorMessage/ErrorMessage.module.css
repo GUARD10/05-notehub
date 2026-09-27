@@ -1,0 +1,13 @@
+.text {
+  margin: 2rem auto 0;
+  max-width: 32rem;
+  padding: 0.95rem 1.15rem;
+  border-radius: var(--radius-md);
+  background: var(--color-danger-soft);
+  color: #ffb4b8;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.5;
+  border: 1px solid rgba(240, 113, 120, 0.28);
+  animation: fadeUp 0.3s ease both;
+}
